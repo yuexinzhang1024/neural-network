@@ -4,7 +4,7 @@ This repository contains two deep learning projects, focusing on image classific
 ## Project 1: Classification of Animals
 Objective: To evaluate the impact of neural network architecture and its depth on model accuracy, using the "Dogs vs. Cats Redux: Kernels Edition" dataset.
 
-Key Findings: ResNet architectures and their derivatives outperform VGG models.
+Major Achievements: ResNet architectures and their derivatives outperform VGG models.
 
 ## Project 2: Classification of Numbers
 Objective: To develop an effective deep learning model for binary classification of number images, using numbers 0 and 1 from the MNIST dataset.
